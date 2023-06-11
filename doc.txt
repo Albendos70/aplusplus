@@ -1,0 +1,52 @@
+(c) MasterGive - 2023
+
+Welcome to A++ Doc!
+
+If you want to learn A++
+Lets start!
+
+########################
+SYSTEMPRINT
+########################
+
+to print, use systemprint
+
+exemple:
+systemprint("Hello, World!")
+
+########################
+CLEAR
+########################
+
+to clear shell, use clear
+
+exemple:
+clear
+
+
+########################
+APLUS
+########################
+
+You can make .aplus file, and run by: aplusplus.py filename.py
+
+exemple:
+aplusplus.py exemple.py
+
+########################
+MORE?
+########################
+
+Explore A++ And Make your own app using aplus
+
+
+
+
+
+
+
+
+
+
+Thank you for reading tutorial doc!
+
